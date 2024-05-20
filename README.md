@@ -34,7 +34,7 @@ Next, once the drive is known
 
 Run this command and find your USB disk
 ```
-sudo disk -l
+sudo fdisk -l
 ```
 
 Next, once the drive is known
